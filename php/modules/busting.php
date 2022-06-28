@@ -1,4 +1,4 @@
-<html>
+<html!5>
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
@@ -69,4 +69,4 @@
     <?php include "../../includes/footer.php" ?>
 <script type="text/javascript" src='../../assets/js/busting.js'></script>
 </body>
-</html>
+</html!>
